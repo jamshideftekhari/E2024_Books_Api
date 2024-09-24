@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/E2024BooksApiapi/apis/E2024BooksApi",
+      "type": "apis.azure"
+    }
+  }
+}
